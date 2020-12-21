@@ -2,3 +2,4 @@
 /config/keys.js
 /uploads/*
 /__backup/*
+/frontend/node_modules/*
